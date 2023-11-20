@@ -87,7 +87,7 @@ This repository contains the following files:
 * <b>breast-cancer.csv:</b> data focuses on cellular level characteristics of breast cancer tumors and was quantified from FNA images; [Kaggle link](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 * <b>mammographic_masses.csv</b>: data focuses on whole-tumor characteristics; can be downloaded from [this source](https://data.world/julio/mammographic-masses)
 * A non-technical [presentation](https://docs.google.com/presentation/d/1R1fnb6mz5Ys-XjyiQNYs3zTC6d4QnR0xKSUEoEQ9JJY/edit?usp=sharing)
-* A Jupyter notebook: contains all of the necessary code and models
+* A Jupyter [notebook](https://github.com/jbenedito99/Breast-Cancer-Classification/blob/main/notebook.ipynb): contains all of the necessary code and models
 
 # Reproducibility Instructions
 To reproduce this project, begin by cloning the repository, which contains both datasets. You can also download the datasets from the links above. Then, run the Jupyter notebook, which houses the code for the final models.  
